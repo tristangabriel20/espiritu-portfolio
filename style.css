@@ -463,12 +463,7 @@ main-container .image{
 }
 }
 
-.menu-active .hamburg,
-.menu-active .cancel {
-    opacity: 1; /* Make visible */
-    pointer-events: auto; /* Enable interaction */
-    transition: opacity 0.3s ease, pointer-events 0s 0s; /* Reset pointer-events instantly */
-}
+
 
 
 
