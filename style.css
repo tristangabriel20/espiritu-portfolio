@@ -34,10 +34,10 @@ nav{
     height: 10vh;
 }
 .nav-container{
-    width: 100%;
+    width: 80%;
     height: 100%;
     display: flex;
-    justify-content: space-around;
+    justify-content: right;
     align-items: center;
 }
 .logo{
@@ -310,7 +310,7 @@ section .button button:hover{
 }
 .education .boxes .box:hover{
     background: darkblue;
-    color: white;
+    color: white;   
 }
 .education .boxes .box .icon{
     height: 50px;
@@ -321,7 +321,7 @@ section .button button:hover{
     line-height: 50px;
     font-size: 18px;
     color: white;
-    margin: 0 auto 10px auto;
+    
     transition: all 0.4s ease;
 }
 .boxes .box:hover .icon{
